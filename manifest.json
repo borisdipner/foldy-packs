@@ -6,14 +6,68 @@
       "name": "Classic Pack",
       "skin_count": 9,
       "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/preview.png",
-      "skin_urls": ["https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/1.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/2.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/3.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/4.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/5.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/6.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/7.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/8.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/9.png"]
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/9.png"
+      ]
     },
     {
       "id": "new",
       "name": "New Pack",
       "skin_count": 18,
       "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/preview.png",
-      "skin_urls": ["https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/1.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/2.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/3.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/4.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/5.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/6.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/7.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/8.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/9.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/10.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/11.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/12.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/13.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/14.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/15.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/16.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/17.png","https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/18.png"]
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/9.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/10.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/11.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/12.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/13.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/14.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/15.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/16.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/17.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/18.png"
+      ]
+    },
+    {
+      "id": "elements",
+      "name": "Elements",
+      "skin_count": 4,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/4.png"
+      ]
+    },
+    {
+      "id": "wild-fur",
+      "name": "Wild Fur",
+      "skin_count": 5,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/5.png"
+      ]
     }
   ]
 }
