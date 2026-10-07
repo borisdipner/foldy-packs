@@ -68,6 +68,96 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/4.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/5.png"
       ]
+    },
+    {
+      "id": "takeout",
+      "name": "Takeout",
+      "skin_count": 13,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/9.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/10.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/11.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/12.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/13.png"
+      ]
+    },
+    {
+      "id": "brunch",
+      "name": "Brunch & Sweets",
+      "skin_count": 12,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/9.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/10.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/11.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/12.png"
+      ]
+    },
+    {
+      "id": "fluffy",
+      "name": "Fluffy",
+      "skin_count": 9,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/9.png"
+      ]
+    },
+    {
+      "id": "pottery",
+      "name": "Pottery & Rugs",
+      "skin_count": 5,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/5.png"
+      ]
+    },
+    {
+      "id": "odds-and-ends",
+      "name": "Odds & Ends",
+      "skin_count": 11,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/9.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/10.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/11.png"
+      ]
     }
   ]
 }
