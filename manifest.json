@@ -16,7 +16,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/7.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/8.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/9.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/strip.png"
     },
     {
       "id": "new",
@@ -42,7 +43,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/16.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/17.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/18.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/strip.png"
     },
     {
       "id": "elements",
@@ -54,7 +56,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/2.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/3.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/4.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/elements/strip.png"
     },
     {
       "id": "wild-fur",
@@ -67,7 +70,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/3.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/4.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/5.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/wild-fur/strip.png"
     },
     {
       "id": "takeout",
@@ -88,7 +92,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/11.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/12.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/13.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/takeout/strip.png"
     },
     {
       "id": "brunch",
@@ -108,7 +113,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/10.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/11.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/12.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/brunch/strip.png"
     },
     {
       "id": "fluffy",
@@ -125,7 +131,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/7.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/8.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/9.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/fluffy/strip.png"
     },
     {
       "id": "pottery",
@@ -138,7 +145,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/3.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/4.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/5.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pottery/strip.png"
     },
     {
       "id": "odds-and-ends",
@@ -157,7 +165,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/9.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/10.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/11.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/strip.png"
     },
     {
       "id": "snoopy",
@@ -177,7 +186,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/10.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/11.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/12.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/strip.png"
     },
     {
       "id": "sneaker-boxes",
@@ -189,7 +199,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/2.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/3.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/4.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/strip.png"
     },
     {
       "id": "pop-brands",
@@ -201,7 +212,8 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/2.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/3.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/4.png"
-      ]
+      ],
+      "strip_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/strip.png"
     }
   ],
   "wallpaper_categories": [
