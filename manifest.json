@@ -216,6 +216,21 @@
       "subtitle": "Zones to sort folders into and park widgets."
     },
     {
+      "id": "cozy-desks",
+      "name": "Cozy Desks",
+      "subtitle": "Illustrated desks with an empty spot for your widgets."
+    },
+    {
+      "id": "color-blocks",
+      "name": "Color Blocks",
+      "subtitle": "Bold blocks with label strips for your folders."
+    },
+    {
+      "id": "collages",
+      "name": "Collages",
+      "subtitle": "Scrapbook mood boards."
+    },
+    {
       "id": "minimal",
       "name": "Minimal",
       "subtitle": "Calm backdrops with room for every icon."
@@ -456,6 +471,123 @@
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-dot-grid.jpg?v=0674ae93",
       "dynamic": false,
       "accent": "#f7c4ae"
+    },
+    {
+      "id": "organizer-cottagecore",
+      "name": "Cottagecore",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-cottagecore.jpg?v=257b11b3",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-cottagecore.jpg?v=a44c4b4f",
+      "dynamic": false,
+      "accent": "#8c8c56"
+    },
+    {
+      "id": "organizer-dark-academia",
+      "name": "Dark Academia",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-dark-academia.jpg?v=ac4c92fb",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-dark-academia.jpg?v=7a67c093",
+      "dynamic": false,
+      "accent": "#775642"
+    },
+    {
+      "id": "organizer-light-academia",
+      "name": "Light Academia",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-light-academia.jpg?v=c57399c4",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-light-academia.jpg?v=86f79396",
+      "dynamic": false,
+      "accent": "#a38060"
+    },
+    {
+      "id": "organizer-simple",
+      "name": "Simple",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-simple.jpg?v=c566e394",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-simple.jpg?v=594dbb0a",
+      "dynamic": false,
+      "accent": "#785743"
+    },
+    {
+      "id": "desk-cozy-room",
+      "name": "Cozy Room",
+      "category": "cozy-desks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/cozy-desks/desk-cozy-room.jpg?v=96c2081d",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/desk-cozy-room.jpg?v=fd4365ad",
+      "dynamic": false,
+      "accent": "#c8906e"
+    },
+    {
+      "id": "desk-pink-retro",
+      "name": "Pink Retro",
+      "category": "cozy-desks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/cozy-desks/desk-pink-retro.jpg?v=ff6a281c",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/desk-pink-retro.jpg?v=28d93f9a",
+      "dynamic": false,
+      "accent": "#a776b7"
+    },
+    {
+      "id": "desk-sunny",
+      "name": "Sunny Desk",
+      "category": "cozy-desks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/cozy-desks/desk-sunny.jpg?v=6405daf4",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/desk-sunny.jpg?v=bd0ff4b1",
+      "dynamic": false,
+      "accent": "#79c0dc"
+    },
+    {
+      "id": "blocks-primary",
+      "name": "Primary",
+      "category": "color-blocks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/color-blocks/blocks-primary.jpg?v=eff90268",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/blocks-primary.jpg?v=c9fe517d",
+      "dynamic": false,
+      "accent": "#1585d7"
+    },
+    {
+      "id": "blocks-bold",
+      "name": "Bold",
+      "category": "color-blocks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/color-blocks/blocks-bold.jpg?v=7c6844cd",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/blocks-bold.jpg?v=a7ed418d",
+      "dynamic": false,
+      "accent": "#a06b7c"
+    },
+    {
+      "id": "blocks-lilac",
+      "name": "Lilac",
+      "category": "color-blocks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/color-blocks/blocks-lilac.jpg?v=e5d3bbcb",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/blocks-lilac.jpg?v=57aba909",
+      "dynamic": false,
+      "accent": "#5765a4"
+    },
+    {
+      "id": "blocks-garden",
+      "name": "Garden",
+      "category": "color-blocks",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/color-blocks/blocks-garden.jpg?v=f0ed33d4",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/blocks-garden.jpg?v=ab8d351f",
+      "dynamic": false,
+      "accent": "#f09353"
+    },
+    {
+      "id": "collage-sage",
+      "name": "Sage",
+      "category": "collages",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/collages/collage-sage.jpg?v=41484c30",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/collage-sage.jpg?v=2f5e31d7",
+      "dynamic": false,
+      "accent": "#a69167"
+    },
+    {
+      "id": "collage-periwinkle",
+      "name": "Periwinkle",
+      "category": "collages",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/collages/collage-periwinkle.jpg?v=f36ac13e",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/collage-periwinkle.jpg?v=f556f76b",
+      "dynamic": false,
+      "accent": "#7985a6"
     }
   ]
 }
