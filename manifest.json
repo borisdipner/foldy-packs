@@ -203,5 +203,259 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/4.png"
       ]
     }
+  ],
+  "wallpaper_categories": [
+    {
+      "id": "pack-moods",
+      "name": "Pack Moods",
+      "subtitle": "Day & Night desktops in each pack's colours. They switch with Light and Dark mode."
+    },
+    {
+      "id": "organizers",
+      "name": "Organizers",
+      "subtitle": "Zones to sort folders into and park widgets."
+    },
+    {
+      "id": "minimal",
+      "name": "Minimal",
+      "subtitle": "Calm backdrops with room for every icon."
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "mood-classic",
+      "name": "Classic",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-classic.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-classic.jpg",
+      "dynamic": true,
+      "accent": "#e8c9c4",
+      "matches": "classic"
+    },
+    {
+      "id": "mood-new",
+      "name": "Fresh Drop",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-new.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-new.jpg",
+      "dynamic": true,
+      "accent": "#1b4e67",
+      "matches": "new"
+    },
+    {
+      "id": "mood-elements",
+      "name": "Elements",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-elements.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-elements.jpg",
+      "dynamic": true,
+      "accent": "#842208",
+      "matches": "elements"
+    },
+    {
+      "id": "mood-wild-fur",
+      "name": "Wild Fur",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-wild-fur.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-wild-fur.jpg",
+      "dynamic": true,
+      "accent": "#6e5139",
+      "matches": "wild-fur"
+    },
+    {
+      "id": "mood-takeout",
+      "name": "Takeout",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-takeout.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-takeout.jpg",
+      "dynamic": true,
+      "accent": "#75522a",
+      "matches": "takeout"
+    },
+    {
+      "id": "mood-brunch",
+      "name": "Brunch",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-brunch.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-brunch.jpg",
+      "dynamic": true,
+      "accent": "#c7ac92",
+      "matches": "brunch"
+    },
+    {
+      "id": "mood-fluffy",
+      "name": "Fluffy",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-fluffy.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-fluffy.jpg",
+      "dynamic": true,
+      "accent": "#f7aec4",
+      "matches": "fluffy"
+    },
+    {
+      "id": "mood-pottery",
+      "name": "Pottery",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-pottery.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-pottery.jpg",
+      "dynamic": true,
+      "accent": "#6f4d29",
+      "matches": "pottery"
+    },
+    {
+      "id": "mood-odds-and-ends",
+      "name": "Odds & Ends",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-odds-and-ends.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-odds-and-ends.jpg",
+      "dynamic": true,
+      "accent": "#b4b9cb",
+      "matches": "odds-and-ends"
+    },
+    {
+      "id": "mood-snoopy",
+      "name": "Snoopy",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-snoopy.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-snoopy.jpg",
+      "dynamic": true,
+      "accent": "#b59192",
+      "matches": "snoopy"
+    },
+    {
+      "id": "mood-sneaker-boxes",
+      "name": "Sneaker Boxes",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-sneaker-boxes.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-sneaker-boxes.jpg",
+      "dynamic": true,
+      "accent": "#793519",
+      "matches": "sneaker-boxes"
+    },
+    {
+      "id": "mood-pop-brands",
+      "name": "Pop Brands",
+      "category": "pack-moods",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-pop-brands.heic",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-pop-brands.jpg",
+      "dynamic": true,
+      "accent": "#984560",
+      "matches": "pop-brands"
+    },
+    {
+      "id": "organizer-matcha",
+      "name": "Matcha",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-matcha.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-matcha.jpg",
+      "dynamic": false,
+      "accent": "#d6c3a5",
+      "matches": "pottery"
+    },
+    {
+      "id": "organizer-peach",
+      "name": "Peach",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-peach.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-peach.jpg",
+      "dynamic": false,
+      "accent": "#de9171",
+      "matches": "brunch"
+    },
+    {
+      "id": "organizer-lavender",
+      "name": "Lavender",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-lavender.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-lavender.jpg",
+      "dynamic": false,
+      "accent": "#8b73c1",
+      "matches": "fluffy"
+    },
+    {
+      "id": "organizer-ocean",
+      "name": "Ocean",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-ocean.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-ocean.jpg",
+      "dynamic": false,
+      "accent": "#5d839a",
+      "matches": "elements"
+    },
+    {
+      "id": "organizer-mocha",
+      "name": "Mocha",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-mocha.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-mocha.jpg",
+      "dynamic": false,
+      "accent": "#a68771",
+      "matches": "wild-fur"
+    },
+    {
+      "id": "organizer-midnight",
+      "name": "Midnight",
+      "category": "organizers",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/organizers/organizer-midnight.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-midnight.jpg",
+      "dynamic": false,
+      "accent": "#4e3a67",
+      "matches": "takeout"
+    },
+    {
+      "id": "minimal-glass-day",
+      "name": "Glass Day",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-glass-day.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-glass-day.jpg",
+      "dynamic": false,
+      "accent": "#c1cde5"
+    },
+    {
+      "id": "minimal-glass-night",
+      "name": "Glass Night",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-glass-night.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-glass-night.jpg",
+      "dynamic": false,
+      "accent": "#557ae2"
+    },
+    {
+      "id": "minimal-arches",
+      "name": "Arches",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-arches.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-arches.jpg",
+      "dynamic": false,
+      "accent": "#dfa748",
+      "matches": "pottery"
+    },
+    {
+      "id": "minimal-arches-night",
+      "name": "Arches Night",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-arches-night.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-arches-night.jpg",
+      "dynamic": false,
+      "accent": "#bd9a78"
+    },
+    {
+      "id": "minimal-sunset-bands",
+      "name": "Sunset Bands",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-sunset-bands.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-sunset-bands.jpg",
+      "dynamic": false,
+      "accent": "#ea9f80"
+    },
+    {
+      "id": "minimal-dot-grid",
+      "name": "Dot Grid",
+      "category": "minimal",
+      "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-dot-grid.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-dot-grid.jpg",
+      "dynamic": false,
+      "accent": "#f7c4ae"
+    }
   ]
 }
