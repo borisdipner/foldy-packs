@@ -158,6 +158,50 @@
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/10.png",
         "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/odds-and-ends/11.png"
       ]
+    },
+    {
+      "id": "snoopy",
+      "name": "Snoopy",
+      "skin_count": 12,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/4.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/5.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/6.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/7.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/8.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/9.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/10.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/11.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/snoopy/12.png"
+      ]
+    },
+    {
+      "id": "sneaker-boxes",
+      "name": "Sneaker Boxes",
+      "skin_count": 4,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/sneaker-boxes/4.png"
+      ]
+    },
+    {
+      "id": "pop-brands",
+      "name": "Pop Brands",
+      "skin_count": 4,
+      "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/preview.png",
+      "skin_urls": [
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/1.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/2.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/3.png",
+        "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/pop-brands/4.png"
+      ]
     }
   ]
 }
