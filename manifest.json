@@ -3,7 +3,7 @@
   "packs": [
     {
       "id": "classic",
-      "name": "Classic Pack",
+      "name": "Original",
       "skin_count": 9,
       "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/classic/preview.png",
       "skin_urls": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "new",
-      "name": "New Pack",
+      "name": "Special",
       "skin_count": 18,
       "preview_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/packs/new/preview.png",
       "skin_urls": [
@@ -251,7 +251,7 @@
   "wallpapers": [
     {
       "id": "mood-classic",
-      "name": "Classic",
+      "name": "Original",
       "category": "pack-moods",
       "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-classic.heic?v=58b255c4",
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-classic.jpg?v=182bd5ec",
@@ -261,7 +261,7 @@
     },
     {
       "id": "mood-new",
-      "name": "Fresh Drop",
+      "name": "Special",
       "category": "pack-moods",
       "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/pack-moods/mood-new.heic?v=af26854b",
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-new.jpg?v=e0e86c4b",
