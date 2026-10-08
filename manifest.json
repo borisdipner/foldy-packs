@@ -257,7 +257,8 @@
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-classic.jpg?v=182bd5ec",
       "dynamic": true,
       "accent": "#e8c9c4",
-      "matches": "classic"
+      "matches": "classic",
+      "free": true
     },
     {
       "id": "mood-new",
@@ -267,7 +268,8 @@
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/mood-new.jpg?v=e0e86c4b",
       "dynamic": true,
       "accent": "#1b4e67",
-      "matches": "new"
+      "matches": "new",
+      "free": true
     },
     {
       "id": "mood-elements",
@@ -377,7 +379,8 @@
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/organizer-matcha.jpg?v=b2a060d6",
       "dynamic": false,
       "accent": "#d7c4a6",
-      "matches": "pottery"
+      "matches": "pottery",
+      "free": true
     },
     {
       "id": "organizer-peach",
@@ -436,7 +439,8 @@
       "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-glass-day.jpg?v=f4ffddf0",
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-glass-day.jpg?v=31e85f40",
       "dynamic": false,
-      "accent": "#c1cde5"
+      "accent": "#c1cde5",
+      "free": true
     },
     {
       "id": "minimal-glass-night",
@@ -445,7 +449,8 @@
       "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/minimal/minimal-glass-night.jpg?v=e3b49a91",
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/minimal-glass-night.jpg?v=45de27c9",
       "dynamic": false,
-      "accent": "#557ae2"
+      "accent": "#557ae2",
+      "free": true
     },
     {
       "id": "minimal-arches",
@@ -527,7 +532,8 @@
       "url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/cozy-desks/desk-cozy-room.jpg?v=96c2081d",
       "thumb_url": "https://raw.githubusercontent.com/borisdipner/foldy-packs/main/wallpapers/thumbs/desk-cozy-room.jpg?v=fd4365ad",
       "dynamic": false,
-      "accent": "#c8906e"
+      "accent": "#c8906e",
+      "free": true
     },
     {
       "id": "desk-pink-retro",
